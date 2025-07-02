@@ -1,0 +1,14 @@
+/home/saumya/C#/RobotDelegatesDemo/bin/Debug/net8.0/delegatesConcept
+/home/saumya/C#/RobotDelegatesDemo/bin/Debug/net8.0/delegatesConcept.deps.json
+/home/saumya/C#/RobotDelegatesDemo/bin/Debug/net8.0/delegatesConcept.runtimeconfig.json
+/home/saumya/C#/RobotDelegatesDemo/bin/Debug/net8.0/delegatesConcept.dll
+/home/saumya/C#/RobotDelegatesDemo/bin/Debug/net8.0/delegatesConcept.pdb
+/home/saumya/C#/RobotDelegatesDemo/obj/Debug/net8.0/delegatesConcept.GeneratedMSBuildEditorConfig.editorconfig
+/home/saumya/C#/RobotDelegatesDemo/obj/Debug/net8.0/delegatesConcept.AssemblyInfoInputs.cache
+/home/saumya/C#/RobotDelegatesDemo/obj/Debug/net8.0/delegatesConcept.AssemblyInfo.cs
+/home/saumya/C#/RobotDelegatesDemo/obj/Debug/net8.0/delegatesConcept.csproj.CoreCompileInputs.cache
+/home/saumya/C#/RobotDelegatesDemo/obj/Debug/net8.0/delegatesConcept.dll
+/home/saumya/C#/RobotDelegatesDemo/obj/Debug/net8.0/refint/delegatesConcept.dll
+/home/saumya/C#/RobotDelegatesDemo/obj/Debug/net8.0/delegatesConcept.pdb
+/home/saumya/C#/RobotDelegatesDemo/obj/Debug/net8.0/delegatesConcept.genruntimeconfig.cache
+/home/saumya/C#/RobotDelegatesDemo/obj/Debug/net8.0/ref/delegatesConcept.dll
