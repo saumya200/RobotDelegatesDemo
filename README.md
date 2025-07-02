@@ -36,8 +36,8 @@ This mini-project is designed to help beginners understand delegates in a playfu
 
     Clone the repo:
 
-git clone https://github.com/your-username/RobotDelegateDemo.git
-cd RobotDelegateDemo
+git clone https://github.com/your-username/RobotDelegatesDemo.git
+cd RobotDelegatesDemo
 
 Run the app:
 
@@ -47,9 +47,9 @@ Run the app:
 
 📂 Project Structure
 
-RobotDelegateDemo/
+RobotDelegatesDemo/
 ├── Program.cs       # Main logic of the robot and delegate
-├── RobotDelegateDemo.csproj
+├── RobotDelegatesDemo.csproj
 └── README.md        # You're reading this!
 
 🧸 Example Output
